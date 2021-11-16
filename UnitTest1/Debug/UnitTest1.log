@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\source\repos\lab_7.2i\UnitTest1\UnitTest1.cpp(20,14): error C2440: '=': cannot convert from 'initializer list' to 'int'
+C:\Users\Admin\source\repos\lab_7.2i\UnitTest1\UnitTest1.cpp(20,14): message : The initializer contains too many elements
